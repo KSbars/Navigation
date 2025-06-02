@@ -14,6 +14,7 @@
 		9BBCBA412DEDC54D00BDCC31 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9BBCBA402DEDC54D00BDCC31 /* Base */; };
 		9BBCBA492DEE1BDE00BDCC31 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBCBA482DEE1BDE00BDCC31 /* FeedViewController.swift */; };
 		9BBCBA4B2DEE1C1D00BDCC31 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBCBA4A2DEE1C1D00BDCC31 /* ProfileViewController.swift */; };
+		9BBCBA4D2DEE1D9700BDCC31 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBCBA4C2DEE1D9700BDCC31 /* PostViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9BBCBA422DEDC54D00BDCC31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BBCBA482DEE1BDE00BDCC31 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		9BBCBA4A2DEE1C1D00BDCC31 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		9BBCBA4C2DEE1D9700BDCC31 /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				9BBCBA422DEDC54D00BDCC31 /* Info.plist */,
 				9BBCBA482DEE1BDE00BDCC31 /* FeedViewController.swift */,
 				9BBCBA4A2DEE1C1D00BDCC31 /* ProfileViewController.swift */,
+				9BBCBA4C2DEE1D9700BDCC31 /* PostViewController.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BBCBA4D2DEE1D9700BDCC31 /* PostViewController.swift in Sources */,
 				9BBCBA392DEDC54B00BDCC31 /* ViewController.swift in Sources */,
 				9BBCBA352DEDC54B00BDCC31 /* AppDelegate.swift in Sources */,
 				9BBCBA4B2DEE1C1D00BDCC31 /* ProfileViewController.swift in Sources */,
